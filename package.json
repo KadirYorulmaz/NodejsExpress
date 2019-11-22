@@ -1,0 +1,29 @@
+{
+  "name": "nodejsexpress",
+  "version": "1.0.0",
+  "description": "Express API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KadirYorulmaz/NodejsExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KadirYorulmaz/NodejsExpress/issues"
+  },
+  "homepage": "https://github.com/KadirYorulmaz/NodejsExpress#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
